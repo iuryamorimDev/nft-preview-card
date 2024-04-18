@@ -16,6 +16,10 @@ body {
   background-color: var(--Very-darkblue);
   font-family: "Outfit", sans-serif;
 }
+html,
+body {
+  height: 100%;
+}
 
 *::before,
 *::after {
