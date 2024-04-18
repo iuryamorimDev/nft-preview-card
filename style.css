@@ -57,8 +57,7 @@ img {
   /* margin-top: 20px; */
   padding: 30px;
   background-color: var(--Verydark-blue);
-  max-width: 380px;
-
+  max-width: 320px;
   border-radius: 16px;
 }
 .text h3 {
